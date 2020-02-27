@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/themeui-exploration/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/themeui-exploration/static/js/main.1bd7d885.chunk.js",
+    "main.js.map": "/themeui-exploration/static/js/main.1bd7d885.chunk.js.map",
+    "runtime-main.js": "/themeui-exploration/static/js/runtime-main.8e2ebea0.js",
+    "runtime-main.js.map": "/themeui-exploration/static/js/runtime-main.8e2ebea0.js.map",
+    "static/js/2.026bc74c.chunk.js": "/themeui-exploration/static/js/2.026bc74c.chunk.js",
+    "static/js/2.026bc74c.chunk.js.map": "/themeui-exploration/static/js/2.026bc74c.chunk.js.map",
+    "index.html": "/themeui-exploration/index.html",
+    "precache-manifest.604e746700d432587e458bac9bee803a.js": "/themeui-exploration/precache-manifest.604e746700d432587e458bac9bee803a.js",
+    "service-worker.js": "/themeui-exploration/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/themeui-exploration/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.026bc74c.chunk.js.LICENSE.txt": "/themeui-exploration/static/js/2.026bc74c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e2ebea0.js",
+    "static/js/2.026bc74c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1bd7d885.chunk.js"
+  ]
+}
